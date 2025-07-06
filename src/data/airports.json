@@ -1,5 +1,205 @@
 [
   {
+    "id": "chitose",
+    "name": "新千歳空港",
+    "nameEn": "New Chitose Airport",
+    "iataCode": "CTS",
+    "icaoCode": "RJCC",
+    "latitude": 42.7747,
+    "longitude": 141.692,
+    "amedasStation": "14163"
+  },
+  {
+    "id": "asahikawa",
+    "name": "旭川空港",
+    "nameEn": "Asahikawa Airport",
+    "iataCode": "AKJ",
+    "icaoCode": "RJEC",
+    "latitude": 43.6708,
+    "longitude": 142.4472,
+    "amedasStation": "12442"
+  },
+  {
+    "id": "hakodate",
+    "name": "函館空港",
+    "nameEn": "Hakodate Airport",
+    "iataCode": "HKD",
+    "icaoCode": "RJCH",
+    "latitude": 41.77,
+    "longitude": 140.8219,
+    "amedasStation": "22391"
+  },
+  {
+    "id": "kushiro",
+    "name": "釧路空港",
+    "nameEn": "Kushiro Airport",
+    "iataCode": "KUH",
+    "icaoCode": "RJCK",
+    "latitude": 43.041,
+    "longitude": 144.1931,
+    "amedasStation": "19191"
+  },
+  {
+    "id": "obihiro",
+    "name": "帯広空港",
+    "nameEn": "Obihiro Airport",
+    "iataCode": "OBO",
+    "icaoCode": "RJCB",
+    "latitude": 42.7333,
+    "longitude": 143.2172,
+    "amedasStation": "20432"
+  },
+  {
+    "id": "memanbetsu",
+    "name": "女満別空港",
+    "nameEn": "Memanbetsu Airport",
+    "iataCode": "MMB",
+    "icaoCode": "RJCM",
+    "latitude": 43.8806,
+    "longitude": 144.1639,
+    "amedasStation": "18281"
+  },
+  {
+    "id": "wakkanai",
+    "name": "稚内空港",
+    "nameEn": "Wakkanai Airport",
+    "iataCode": "WKJ",
+    "icaoCode": "RJCW",
+    "latitude": 45.4042,
+    "longitude": 141.8008,
+    "amedasStation": "11016"
+  },
+  {
+    "id": "monbetsu",
+    "name": "紋別空港",
+    "nameEn": "Monbetsu Airport",
+    "iataCode": "MBE",
+    "icaoCode": "RJEB",
+    "latitude": 44.3039,
+    "longitude": 143.4039,
+    "amedasStation": "17341"
+  },
+  {
+    "id": "nakashibetsu",
+    "name": "中標津空港",
+    "nameEn": "Nakashibetsu Airport",
+    "iataCode": "SHB",
+    "icaoCode": "RJCN",
+    "latitude": 43.5775,
+    "longitude": 144.96,
+    "amedasStation": "18491"
+  },
+  {
+    "id": "rishiri",
+    "name": "利尻空港",
+    "nameEn": "Rishiri Airport",
+    "iataCode": "RIS",
+    "icaoCode": "RJER",
+    "latitude": 45.2419,
+    "longitude": 141.1864,
+    "amedasStation": "11121"
+  },
+  {
+    "id": "okushiri",
+    "name": "奥尻空港",
+    "nameEn": "Okushiri Airport",
+    "iataCode": "OIR",
+    "icaoCode": "RJEO",
+    "latitude": 42.0717,
+    "longitude": 139.4328,
+    "amedasStation": "22327"
+  },
+  {
+    "id": "sendai",
+    "name": "仙台空港",
+    "nameEn": "Sendai Airport",
+    "iataCode": "SDJ",
+    "icaoCode": "RJSS",
+    "latitude": 38.1398,
+    "longitude": 140.9169,
+    "amedasStation": "34392"
+  },
+  {
+    "id": "aomori",
+    "name": "青森空港",
+    "nameEn": "Aomori Airport",
+    "iataCode": "AOJ",
+    "icaoCode": "RJSA",
+    "latitude": 40.7347,
+    "longitude": 140.6908,
+    "amedasStation": "31312"
+  },
+  {
+    "id": "akita",
+    "name": "秋田空港",
+    "nameEn": "Akita Airport",
+    "iataCode": "AXT",
+    "icaoCode": "RJSK",
+    "latitude": 39.6156,
+    "longitude": 140.2186,
+    "amedasStation": "32402"
+  },
+  {
+    "id": "hanamaki",
+    "name": "花巻空港",
+    "nameEn": "Hanamaki Airport",
+    "iataCode": "HNA",
+    "icaoCode": "RJSI",
+    "latitude": 39.4286,
+    "longitude": 141.1353,
+    "amedasStation": "33336"
+  },
+  {
+    "id": "yamagata",
+    "name": "山形空港",
+    "nameEn": "Yamagata Airport",
+    "iataCode": "GAJ",
+    "icaoCode": "RJSC",
+    "latitude": 38.4119,
+    "longitude": 140.3711,
+    "amedasStation": "35376"
+  },
+  {
+    "id": "fukushima",
+    "name": "福島空港",
+    "nameEn": "Fukushima Airport",
+    "iataCode": "FKS",
+    "icaoCode": "RJSF",
+    "latitude": 37.2274,
+    "longitude": 140.4311,
+    "amedasStation": "36126"
+  },
+  {
+    "id": "shonai",
+    "name": "庄内空港",
+    "nameEn": "Shonai Airport",
+    "iataCode": "SYO",
+    "icaoCode": "RJSY",
+    "latitude": 38.8122,
+    "longitude": 139.7867,
+    "amedasStation": "35052"
+  },
+  {
+    "id": "odate-noshiro",
+    "name": "大館能代空港",
+    "nameEn": "Odate-Noshiro Airport",
+    "iataCode": "ONJ",
+    "icaoCode": "RJSR",
+    "latitude": 40.1919,
+    "longitude": 140.3717,
+    "amedasStation": "32206"
+  },
+  {
+    "id": "misawa",
+    "name": "三沢空港",
+    "nameEn": "Misawa Airport",
+    "iataCode": "MSJ",
+    "icaoCode": "RJSM",
+    "latitude": 40.7033,
+    "longitude": 141.3683,
+    "amedasStation": "31466"
+  },
+  {
     "id": "haneda",
     "name": "羽田空港",
     "nameEn": "Tokyo Haneda Airport",
@@ -17,7 +217,157 @@
     "icaoCode": "RJAA",
     "latitude": 35.7647,
     "longitude": 140.3864,
-    "amedasStation": "44141"
+    "amedasStation": "45121"
+  },
+  {
+    "id": "ibaraki",
+    "name": "茨城空港",
+    "nameEn": "Ibaraki Airport",
+    "iataCode": "IBR",
+    "icaoCode": "RJAH",
+    "latitude": 36.1811,
+    "longitude": 140.4153,
+    "amedasStation": "40201"
+  },
+  {
+    "id": "oshima",
+    "name": "大島空港",
+    "nameEn": "Oshima Airport",
+    "iataCode": "OIM",
+    "icaoCode": "RJTO",
+    "latitude": 34.782,
+    "longitude": 139.3603,
+    "amedasStation": "44172"
+  },
+  {
+    "id": "niijima",
+    "name": "新島空港",
+    "nameEn": "Niijima Airport",
+    "iataCode": "NIJ",
+    "icaoCode": "RJAN",
+    "latitude": 34.3694,
+    "longitude": 139.2686,
+    "amedasStation": "44216"
+  },
+  {
+    "id": "kozushima",
+    "name": "神津島空港",
+    "nameEn": "Kozushima Airport",
+    "iataCode": "KZU",
+    "icaoCode": "RJAZ",
+    "latitude": 34.1897,
+    "longitude": 139.1344,
+    "amedasStation": "44224"
+  },
+  {
+    "id": "miyakejima",
+    "name": "三宅島空港",
+    "nameEn": "Miyakejima Airport",
+    "iataCode": "MYE",
+    "icaoCode": "RJTQ",
+    "latitude": 34.0736,
+    "longitude": 139.5603,
+    "amedasStation": "44226"
+  },
+  {
+    "id": "hachijojima",
+    "name": "八丈島空港",
+    "nameEn": "Hachijojima Airport",
+    "iataCode": "HAC",
+    "icaoCode": "RJTH",
+    "latitude": 33.115,
+    "longitude": 139.7858,
+    "amedasStation": "44263"
+  },
+  {
+    "id": "chubu",
+    "name": "中部国際空港",
+    "nameEn": "Chubu Centrair International Airport",
+    "iataCode": "NGO",
+    "icaoCode": "RJGG",
+    "latitude": 34.8584,
+    "longitude": 136.8054,
+    "amedasStation": "51106"
+  },
+  {
+    "id": "niigata",
+    "name": "新潟空港",
+    "nameEn": "Niigata Airport",
+    "iataCode": "KIJ",
+    "icaoCode": "RJSN",
+    "latitude": 37.9558,
+    "longitude": 139.1211,
+    "amedasStation": "54232"
+  },
+  {
+    "id": "komatsu",
+    "name": "小松空港",
+    "nameEn": "Komatsu Airport",
+    "iataCode": "KMQ",
+    "icaoCode": "RJNK",
+    "latitude": 36.3946,
+    "longitude": 136.4067,
+    "amedasStation": "56227"
+  },
+  {
+    "id": "toyama",
+    "name": "富山空港",
+    "nameEn": "Toyama Airport",
+    "iataCode": "TOY",
+    "icaoCode": "RJNT",
+    "latitude": 36.6483,
+    "longitude": 137.1875,
+    "amedasStation": "55102"
+  },
+  {
+    "id": "noto",
+    "name": "能登空港",
+    "nameEn": "Noto Airport",
+    "iataCode": "NTQ",
+    "icaoCode": "RJNW",
+    "latitude": 37.2933,
+    "longitude": 136.9622,
+    "amedasStation": "56178"
+  },
+  {
+    "id": "matsumoto",
+    "name": "松本空港",
+    "nameEn": "Matsumoto Airport",
+    "iataCode": "MMJ",
+    "icaoCode": "RJAF",
+    "latitude": 36.1668,
+    "longitude": 137.9227,
+    "amedasStation": "48361"
+  },
+  {
+    "id": "shizuoka",
+    "name": "静岡空港",
+    "nameEn": "Shizuoka Airport",
+    "iataCode": "FSZ",
+    "icaoCode": "RJNS",
+    "latitude": 34.7961,
+    "longitude": 138.1894,
+    "amedasStation": "50281"
+  },
+  {
+    "id": "nagoya",
+    "name": "名古屋飛行場",
+    "nameEn": "Nagoya Airfield",
+    "iataCode": "NKM",
+    "icaoCode": "RJNA",
+    "latitude": 35.255,
+    "longitude": 136.9242,
+    "amedasStation": "51281"
+  },
+  {
+    "id": "sado",
+    "name": "佐渡空港",
+    "nameEn": "Sado Airport",
+    "iataCode": "SDS",
+    "icaoCode": "RJSD",
+    "latitude": 38.0603,
+    "longitude": 138.4139,
+    "amedasStation": "54166"
   },
   {
     "id": "kansai",
@@ -40,14 +390,164 @@
     "amedasStation": "62051"
   },
   {
-    "id": "chubu",
-    "name": "中部国際空港",
-    "nameEn": "Chubu Centrair International Airport",
-    "iataCode": "NGO",
-    "icaoCode": "RJGG",
-    "latitude": 34.8584,
-    "longitude": 136.8054,
-    "amedasStation": "51106"
+    "id": "kobe",
+    "name": "神戸空港",
+    "nameEn": "Kobe Airport",
+    "iataCode": "UKB",
+    "icaoCode": "RJBE",
+    "latitude": 34.6328,
+    "longitude": 135.2236,
+    "amedasStation": "63518"
+  },
+  {
+    "id": "nanki-shirahama",
+    "name": "南紀白浜空港",
+    "nameEn": "Nanki-Shirahama Airport",
+    "iataCode": "SHM",
+    "icaoCode": "RJBD",
+    "latitude": 33.6622,
+    "longitude": 135.3644,
+    "amedasStation": "65306"
+  },
+  {
+    "id": "tajima",
+    "name": "但馬空港",
+    "nameEn": "Tajima Airport",
+    "iataCode": "TJH",
+    "icaoCode": "RJBT",
+    "latitude": 35.5128,
+    "longitude": 134.7867,
+    "amedasStation": "63121"
+  },
+  {
+    "id": "hiroshima",
+    "name": "広島空港",
+    "nameEn": "Hiroshima Airport",
+    "iataCode": "HIJ",
+    "icaoCode": "RJOA",
+    "latitude": 34.4361,
+    "longitude": 132.9194,
+    "amedasStation": "67437"
+  },
+  {
+    "id": "okayama",
+    "name": "岡山空港",
+    "nameEn": "Okayama Airport",
+    "iataCode": "OKJ",
+    "icaoCode": "RJOB",
+    "latitude": 34.7569,
+    "longitude": 133.8556,
+    "amedasStation": "66346"
+  },
+  {
+    "id": "tottori",
+    "name": "鳥取空港",
+    "nameEn": "Tottori Airport",
+    "iataCode": "TTJ",
+    "icaoCode": "RJOR",
+    "latitude": 35.5303,
+    "longitude": 134.1667,
+    "amedasStation": "69122"
+  },
+  {
+    "id": "yonago",
+    "name": "米子空港",
+    "nameEn": "Yonago Airport",
+    "iataCode": "YGJ",
+    "icaoCode": "RJOH",
+    "latitude": 35.4922,
+    "longitude": 133.2361,
+    "amedasStation": "69076"
+  },
+  {
+    "id": "izumo",
+    "name": "出雲空港",
+    "nameEn": "Izumo Airport",
+    "iataCode": "IZO",
+    "icaoCode": "RJOC",
+    "latitude": 35.4136,
+    "longitude": 132.8906,
+    "amedasStation": "68376"
+  },
+  {
+    "id": "iwami",
+    "name": "石見空港",
+    "nameEn": "Iwami Airport",
+    "iataCode": "IWJ",
+    "icaoCode": "RJOW",
+    "latitude": 34.6764,
+    "longitude": 131.7903,
+    "amedasStation": "68462"
+  },
+  {
+    "id": "oki",
+    "name": "隠岐空港",
+    "nameEn": "Oki Airport",
+    "iataCode": "OKI",
+    "icaoCode": "RJNO",
+    "latitude": 36.1811,
+    "longitude": 133.3247,
+    "amedasStation": "68306"
+  },
+  {
+    "id": "iwakuni",
+    "name": "岩国空港",
+    "nameEn": "Iwakuni Airport",
+    "iataCode": "IWK",
+    "icaoCode": "RJOI",
+    "latitude": 34.1439,
+    "longitude": 132.2356,
+    "amedasStation": "81481"
+  },
+  {
+    "id": "yamaguchi-ube",
+    "name": "山口宇部空港",
+    "nameEn": "Yamaguchi Ube Airport",
+    "iataCode": "UBJ",
+    "icaoCode": "RJDC",
+    "latitude": 33.93,
+    "longitude": 131.2786,
+    "amedasStation": "81371"
+  },
+  {
+    "id": "matsuyama",
+    "name": "松山空港",
+    "nameEn": "Matsuyama Airport",
+    "iataCode": "MYJ",
+    "icaoCode": "RJOM",
+    "latitude": 33.8272,
+    "longitude": 132.7,
+    "amedasStation": "73168"
+  },
+  {
+    "id": "kochi",
+    "name": "高知空港",
+    "nameEn": "Kochi Airport",
+    "iataCode": "KCZ",
+    "icaoCode": "RJOK",
+    "latitude": 33.5461,
+    "longitude": 133.6694,
+    "amedasStation": "74188"
+  },
+  {
+    "id": "tokushima",
+    "name": "徳島空港",
+    "nameEn": "Tokushima Airport",
+    "iataCode": "TKS",
+    "icaoCode": "RJOS",
+    "latitude": 34.1328,
+    "longitude": 134.6067,
+    "amedasStation": "71106"
+  },
+  {
+    "id": "takamatsu",
+    "name": "高松空港",
+    "nameEn": "Takamatsu Airport",
+    "iataCode": "TAK",
+    "icaoCode": "RJOT",
+    "latitude": 34.2142,
+    "longitude": 134.0156,
+    "amedasStation": "72086"
   },
   {
     "id": "fukuoka",
@@ -60,24 +560,174 @@
     "amedasStation": "82182"
   },
   {
-    "id": "chitose",
-    "name": "新千歳空港",
-    "nameEn": "New Chitose Airport",
-    "iataCode": "CTS",
-    "icaoCode": "RJCC",
-    "latitude": 42.7747,
-    "longitude": 141.6920,
-    "amedasStation": "14163"
+    "id": "kagoshima",
+    "name": "鹿児島空港",
+    "nameEn": "Kagoshima Airport",
+    "iataCode": "KOJ",
+    "icaoCode": "RJFK",
+    "latitude": 31.8034,
+    "longitude": 130.7194,
+    "amedasStation": "88317"
   },
   {
-    "id": "sendai",
-    "name": "仙台空港",
-    "nameEn": "Sendai Airport",
-    "iataCode": "SDJ",
-    "icaoCode": "RJSS",
-    "latitude": 38.1398,
-    "longitude": 140.9169,
-    "amedasStation": "34392"
+    "id": "kitakyushu",
+    "name": "北九州空港",
+    "nameEn": "Kitakyushu Airport",
+    "iataCode": "KKJ",
+    "icaoCode": "RJFR",
+    "latitude": 33.8459,
+    "longitude": 131.035,
+    "amedasStation": "83131"
+  },
+  {
+    "id": "nagasaki",
+    "name": "長崎空港",
+    "nameEn": "Nagasaki Airport",
+    "iataCode": "NGS",
+    "icaoCode": "RJFU",
+    "latitude": 32.9169,
+    "longitude": 129.9136,
+    "amedasStation": "84171"
+  },
+  {
+    "id": "kumamoto",
+    "name": "熊本空港",
+    "nameEn": "Kumamoto Airport",
+    "iataCode": "KMJ",
+    "icaoCode": "RJFT",
+    "latitude": 32.8373,
+    "longitude": 130.8547,
+    "amedasStation": "86141"
+  },
+  {
+    "id": "oita",
+    "name": "大分空港",
+    "nameEn": "Oita Airport",
+    "iataCode": "OIT",
+    "icaoCode": "RJFO",
+    "latitude": 33.4794,
+    "longitude": 131.7372,
+    "amedasStation": "83216"
+  },
+  {
+    "id": "miyazaki",
+    "name": "宮崎空港",
+    "nameEn": "Miyazaki Airport",
+    "iataCode": "KMI",
+    "icaoCode": "RJFM",
+    "latitude": 31.8772,
+    "longitude": 131.4486,
+    "amedasStation": "87376"
+  },
+  {
+    "id": "saga",
+    "name": "佐賀空港",
+    "nameEn": "Saga Airport",
+    "iataCode": "HSG",
+    "icaoCode": "RJFS",
+    "latitude": 33.1497,
+    "longitude": 130.3022,
+    "amedasStation": "85142"
+  },
+  {
+    "id": "tsushima",
+    "name": "対馬空港",
+    "nameEn": "Tsushima Airport",
+    "iataCode": "TSJ",
+    "icaoCode": "RJDT",
+    "latitude": 34.2849,
+    "longitude": 129.3306,
+    "amedasStation": "84132"
+  },
+  {
+    "id": "fukue",
+    "name": "福江空港",
+    "nameEn": "Fukue Airport",
+    "iataCode": "FUJ",
+    "icaoCode": "RJFE",
+    "latitude": 32.6663,
+    "longitude": 128.8328,
+    "amedasStation": "84536"
+  },
+  {
+    "id": "iki",
+    "name": "壱岐空港",
+    "nameEn": "Iki Airport",
+    "iataCode": "IKI",
+    "icaoCode": "RJDB",
+    "latitude": 33.749,
+    "longitude": 129.7854,
+    "amedasStation": "84135"
+  },
+  {
+    "id": "tanegashima",
+    "name": "種子島空港",
+    "nameEn": "Tanegashima Airport",
+    "iataCode": "TNE",
+    "icaoCode": "RJFG",
+    "latitude": 30.6051,
+    "longitude": 130.9917,
+    "amedasStation": "88836"
+  },
+  {
+    "id": "yakushima",
+    "name": "屋久島空港",
+    "nameEn": "Yakushima Airport",
+    "iataCode": "KUM",
+    "icaoCode": "RJFC",
+    "latitude": 30.3856,
+    "longitude": 130.6594,
+    "amedasStation": "88901"
+  },
+  {
+    "id": "amami",
+    "name": "奄美空港",
+    "nameEn": "Amami Airport",
+    "iataCode": "ASJ",
+    "icaoCode": "RJKA",
+    "latitude": 28.4306,
+    "longitude": 129.7125,
+    "amedasStation": "88851"
+  },
+  {
+    "id": "kikai",
+    "name": "喜界空港",
+    "nameEn": "Kikai Airport",
+    "iataCode": "KKX",
+    "icaoCode": "RJKI",
+    "latitude": 28.3214,
+    "longitude": 129.9281,
+    "amedasStation": "88751"
+  },
+  {
+    "id": "tokunoshima",
+    "name": "徳之島空港",
+    "nameEn": "Tokunoshima Airport",
+    "iataCode": "TKN",
+    "icaoCode": "RJKN",
+    "latitude": 27.8364,
+    "longitude": 128.8814,
+    "amedasStation": "88931"
+  },
+  {
+    "id": "okinoerabu",
+    "name": "沖永良部空港",
+    "nameEn": "Okinoerabu Airport",
+    "iataCode": "OKE",
+    "icaoCode": "RJKB",
+    "latitude": 27.4314,
+    "longitude": 128.7008,
+    "amedasStation": "88956"
+  },
+  {
+    "id": "yoron",
+    "name": "与論空港",
+    "nameEn": "Yoron Airport",
+    "iataCode": "RNJ",
+    "icaoCode": "RORY",
+    "latitude": 27.044,
+    "longitude": 128.4015,
+    "amedasStation": "94017"
   },
   {
     "id": "naha",
@@ -90,63 +740,123 @@
     "amedasStation": "91107"
   },
   {
-    "id": "kagoshima",
-    "name": "鹿児島空港",
-    "nameEn": "Kagoshima Airport",
-    "iataCode": "KOJ",
-    "icaoCode": "RJFK",
-    "latitude": 31.8034,
-    "longitude": 130.7194,
-    "amedasStation": "88317"
+    "id": "ishigaki",
+    "name": "新石垣空港",
+    "nameEn": "New Ishigaki Airport",
+    "iataCode": "ISG",
+    "icaoCode": "ROIG",
+    "latitude": 24.3964,
+    "longitude": 124.245,
+    "amedasStation": "94017"
   },
   {
-    "id": "hiroshima",
-    "name": "広島空港",
-    "nameEn": "Hiroshima Airport",
-    "iataCode": "HIJ",
-    "icaoCode": "RJOA",
-    "latitude": 34.4361,
-    "longitude": 132.9194,
-    "amedasStation": "71106"
+    "id": "miyako",
+    "name": "宮古空港",
+    "nameEn": "Miyako Airport",
+    "iataCode": "MMY",
+    "icaoCode": "ROMY",
+    "latitude": 24.7828,
+    "longitude": 125.2951,
+    "amedasStation": "93041"
   },
   {
-    "id": "okayama",
-    "name": "岡山空港",
-    "nameEn": "Okayama Airport",
-    "iataCode": "OKJ",
-    "icaoCode": "RJOB",
-    "latitude": 34.7569,
-    "longitude": 133.8556,
-    "amedasStation": "66106"
+    "id": "kumejima",
+    "name": "久米島空港",
+    "nameEn": "Kumejima Airport",
+    "iataCode": "UEO",
+    "icaoCode": "ROKJ",
+    "latitude": 26.3635,
+    "longitude": 126.7138,
+    "amedasStation": "91146"
   },
   {
-    "id": "matsuyama",
-    "name": "松山空港",
-    "nameEn": "Matsuyama Airport",
-    "iataCode": "MYJ",
-    "icaoCode": "RJOM",
-    "latitude": 33.8272,
-    "longitude": 132.7000,
-    "amedasStation": "72306"
+    "id": "yonaguni",
+    "name": "与那国空港",
+    "nameEn": "Yonaguni Airport",
+    "iataCode": "OGN",
+    "icaoCode": "ROYN",
+    "latitude": 24.4669,
+    "longitude": 122.9778,
+    "amedasStation": "94017"
   },
   {
-    "id": "kochi",
-    "name": "高知空港",
-    "nameEn": "Kochi Airport",
-    "iataCode": "KCZ",
-    "icaoCode": "RJOK",
-    "latitude": 33.5461,
-    "longitude": 133.6694,
-    "amedasStation": "74106"
+    "id": "tarama",
+    "name": "多良間空港",
+    "nameEn": "Tarama Airport",
+    "iataCode": "TRA",
+    "icaoCode": "RORT",
+    "latitude": 24.6539,
+    "longitude": 124.6756,
+    "amedasStation": "93062"
   },
   {
-    "id": "tokushima",
-    "name": "徳島空港",
-    "nameEn": "Tokushima Airport",
-    "iataCode": "TKS",
-    "icaoCode": "RJOS",
-    "latitude": 34.1328,
-    "longitude": 134.6067,
-    "amedasStation": "73106"
+    "id": "shimojishima",
+    "name": "下地島空港",
+    "nameEn": "Shimojishima Airport",
+    "iataCode": "SHI",
+    "icaoCode": "RORS",
+    "latitude": 24.8267,
+    "longitude": 125.1447,
+    "amedasStation": "93041"
+  },
+  {
+    "id": "aguni",
+    "name": "粟国空港",
+    "nameEn": "Aguni Airport",
+    "iataCode": "AGJ",
+    "icaoCode": "RORA",
+    "latitude": 26.5925,
+    "longitude": 127.2406,
+    "amedasStation": "91107"
+  },
+  {
+    "id": "kerama",
+    "name": "慶良間空港",
+    "nameEn": "Kerama Airport",
+    "iataCode": "KJP",
+    "icaoCode": "ROKR",
+    "latitude": 26.1683,
+    "longitude": 127.2933,
+    "amedasStation": "91107"
+  },
+  {
+    "id": "minamidaito",
+    "name": "南大東空港",
+    "nameEn": "Minamidaito Airport",
+    "iataCode": "MMD",
+    "icaoCode": "ROMD",
+    "latitude": 25.8465,
+    "longitude": 131.2634,
+    "amedasStation": "92033"
+  },
+  {
+    "id": "kitadaito",
+    "name": "北大東空港",
+    "nameEn": "Kitadaito Airport",
+    "iataCode": "KTD",
+    "icaoCode": "RORK",
+    "latitude": 25.9447,
+    "longitude": 131.3269,
+    "amedasStation": "92011"
+  },
+  {
+    "id": "iejima",
+    "name": "伊江島空港",
+    "nameEn": "Iejima Airport",
+    "iataCode": "IEJ",
+    "icaoCode": "RORE",
+    "latitude": 26.7219,
+    "longitude": 127.7852,
+    "amedasStation": "91011"
+  },
+  {
+    "id": "hateruma",
+    "name": "波照間空港",
+    "nameEn": "Hateruma Airport",
+    "iataCode": "HTR",
+    "icaoCode": "RORH",
+    "latitude": 24.0589,
+    "longitude": 123.8056,
+    "amedasStation": "94101"
   }
 ]
